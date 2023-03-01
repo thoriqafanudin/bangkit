@@ -1,0 +1,3 @@
+Ummu Fitrotin,082122214133,Front-End
+Faisa Nirbita,085261823516,Back-End
+Thoriq Afanudin,088216381920,Machine Learning Engineer
